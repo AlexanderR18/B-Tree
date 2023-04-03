@@ -1,5 +1,5 @@
 # B-Tree
-Manually Creates a B Tree
+Manually Creates a self balancing B Tree
 
 Input file
 All values that will be added to the tree separated by a space, tab, or new line.
